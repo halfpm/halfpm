@@ -16,13 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![](//hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fhalfpm%2Fhalfpm)
-
-#### mikelothar has 8 followers today
-
-[@Arth101](https://github.com/Arth101) | [@opengineer](https://github.com/opengineer) | [@Prachisharma13](https://github.com/Prachisharma13) | [@neversettleninja](https://github.com/neversettleninja)
---- | --- | --- | ---
-![@Arth101](https://avatars.githubusercontent.com/Arth101?s=150&v=1) | ![@opengineer](https://avatars.githubusercontent.com/opengineer?s=150&v=1) | ![@Prachisharma13](https://dummyimage.com/150x150/ffffff/ffffff?s=150&v=1) | ![@neversettleninja](https://avatars.githubusercontent.com/neversettleninja?s=150&v=1)
-
-[@angusshire](https://github.com/angusshire) | [@bycassius](https://github.com/bycassius) | [@suiramus](https://github.com/suiramus) | [sujiwotejok](https://github.com/sujiwotejok)
---- | --- | --- | ---
-![@angusshire](https://dummyimage.com/150x150/ffffff/ffffff?s=150&v=1) | ![@bycassius](https://avatars.githubusercontent.com/bycassius?s=150&v=1) | ![@suiramus](https://avatars.githubusercontent.com/suiramus?s=150&v=1) | ![sujiwotejok](https://avatars.githubusercontent.com/sujiwotejok?s=150&v=1)
